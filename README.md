@@ -1,2 +1,1 @@
-# qinghuaCorregido
-Proyecto de Mabel 
+# qinghuaProyect
